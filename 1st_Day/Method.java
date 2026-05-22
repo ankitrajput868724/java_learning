@@ -1,10 +1,12 @@
 public class Method {
 
-  public static void Number(int a, int b){
+    
+public static void Number(int a, int b){
     int sum = a+b;
     System.out.println("Sum is : - "+sum);
-  }
 
+
+}
 
 
     public static void main(String[] args){
