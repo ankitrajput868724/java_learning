@@ -15,6 +15,6 @@ public class Array2DAddValues {
                
             }
         }
-        System.out.println("The sum of all elements in the 2D array is: " + Sum);
+   
     }
 }
