@@ -17,5 +17,4 @@ for(int i = 0;i<=n-1;i++){
 }
 System.out.println("The maximum element in the array is: " + max);
 }
-
 }
