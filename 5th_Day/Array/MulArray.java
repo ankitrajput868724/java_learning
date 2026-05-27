@@ -32,8 +32,11 @@ for(int i=0; i<=row-1;i++){
         System.out.print(arr[i][j]+ " ");
 
     }
+    System.out.println();
+}
+
 System.out.println("After multiply by 10 :-- ");
-    for(i = 0; i<=row-1 ; i++) {
+    for(int i = 0; i<=row-1 ; i++) {
         for(int j = 0 ; j<=col-1 ; j++){
 
             arr[i][j]*=10;
@@ -47,5 +50,4 @@ System.out.println("After multiply by 10 :-- ");
 
 
 
-}
 }
