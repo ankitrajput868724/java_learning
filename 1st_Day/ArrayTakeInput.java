@@ -14,5 +14,7 @@ public class ArrayTakeInput {
         for(int j=0 ; j<=n-1;j++){
             System.out.println(arr[j]);
         }
+
+        sc.close();
     }
 }
