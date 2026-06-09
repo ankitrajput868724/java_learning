@@ -6,7 +6,7 @@ public class DeleteString {
 String str = sc.nextLine();
 
 
-str = str.replaceAll(" ", "");
+str = str.replaceAll(" \\s", "");    //   //s means remove all spaces created by TAB and SPACE KEY
 System.out.println(str);
 
     
