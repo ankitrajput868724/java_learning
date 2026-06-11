@@ -1,10 +1,8 @@
 import java.util.*;
 public class StrongNumber {
-
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-int a = sc.nextInt();
+int a = sc.nextInt();       
 int num = a;
 int sum=0;
 
@@ -20,7 +18,7 @@ sum += product ;
     a/=10;
 
 }
-System.out.println(sum);
+//System.out.println(sum);
 
 if(num == sum){ System.out.println("Strong number :- "); }else{
     System.out.println("not");
