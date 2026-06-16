@@ -14,7 +14,7 @@ for(int i=1 ; i<=digit ; i++){
 product *=i;
 }
 sum += product ;
-
+System.out.println(sum);
     a/=10;
 
 }

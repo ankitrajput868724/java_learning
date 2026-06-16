@@ -11,7 +11,7 @@ public class ArmStrong {
     int count=0;
     while(a>0){
     count++;
-        a/=10;
+        a/=10; 
     
     
     }
