@@ -8,10 +8,8 @@ int y=sc.nextInt();
 for(int a =x ; a<=y ; a++){
     int reverse = isPal(a);                   //METHOD CALLING + PASSING VALUES \\
     if(reverse == a){System.out.println(a);}
-}
-    }
-
-                //METHOD IS HERE \\
+}} 
+    //METHOD IS HERE \\
     public static int isPal(int a)
     {
         int rev=0;
