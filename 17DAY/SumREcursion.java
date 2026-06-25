@@ -1,5 +1,5 @@
 public class SumREcursion{
-    public static void main(String[] args) {
+public static void main(String[] args) {
 System.out.println(fact(5));
 }
 public static int fact(int a){
