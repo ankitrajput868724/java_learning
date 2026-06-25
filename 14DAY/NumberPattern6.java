@@ -12,8 +12,7 @@ else{
     for(int j=n*i ; j>n*i-n ; j--){System.out.print(j+"\t");}
 }System.out.println();
 
-        }
-
+}
     }
 }
 
