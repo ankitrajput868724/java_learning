@@ -2,7 +2,7 @@ public class PheuuRec {
     public static void main(String[] args) {
 // a(0 , 1 , 10);
 
-System.out.println(m1(4));
+System.out.println(m1(6));
         
     }
     
