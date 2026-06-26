@@ -5,15 +5,11 @@ public class RangePrint {
         m1(1,7);
     }
     
-
-
     public static int m1(int a , int b){
-        if(a>b) return 1;
+        if(a>b){return 0;}
 System.out.println(a);
         return m1(a+1 , b);
-
-
-
-
-    }
+    
+    
+}
 }
