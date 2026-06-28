@@ -1,8 +1,14 @@
+import java.util.Scanner;
 public class PheuuRec {
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
 // a(0 , 1 , 10);
 
-System.out.println(m1(6));
+System.out.println("ENTER THE INDEX NO TO SEARCH ");
+int a = sc.nextInt();
+
+System.out.println(m1(a));
+
         
     }
     
