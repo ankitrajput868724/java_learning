@@ -74,9 +74,6 @@ String str = up+lc+Num+sp;
         System.out.println(sum);
 
 
-        System.out.println("GIVEN STRING is pal or not  :) "+ispalindrome(s));
-    
-
+        System.out.println("GIVEN STRING is pal or not  :) "+ispalindrome(s ));
     }
-    
 }
