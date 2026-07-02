@@ -14,6 +14,7 @@ char c = str.charAt(i);
 if(c == s){
     System.out.println("FOUND AT INDEX "+i);
 }
+else{System.out.println("Target not found :(");}
             {
 
             }
