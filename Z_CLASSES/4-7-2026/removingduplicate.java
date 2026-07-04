@@ -8,12 +8,13 @@ public class removingduplicate {
 
 
     for(int i=0;i<=s.length()-1 ; i++){
+        
 char ch = s.charAt(i);
-        if(!str.contains(ch+"")){
+    if(!str.contains(ch+"")){
 
-                str+=ch;
+    str+=ch;
 
-        }
-    }
-    System.out.println(str);
-    }}
+}
+}
+System.out.println(str);
+}}
