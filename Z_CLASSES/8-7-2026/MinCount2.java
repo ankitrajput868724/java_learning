@@ -27,7 +27,7 @@ else if(count < min2 && count!=min1){
     minchar2 = ch;
 
 
-}
+}st = s;
         }
         System.out.println(minchar2 +"   :)  "+min2);
     }
