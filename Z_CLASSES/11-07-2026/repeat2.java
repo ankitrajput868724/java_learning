@@ -16,10 +16,6 @@ for(int i=0 ; i<=ch.length-2 ;i++ ){
     
 }
 System.out.println(ch);
-
-
-
-
 // for(int i=0 ; i<ch.length ; i++){
 //     if(ch[i] == ' ') continue;
 //     for(int j =i+1 ; j<ch.length ; j++){
@@ -30,5 +26,3 @@ System.out.println(ch);
     // System.out.print(ch[i]);
 }
     }
-    
-
